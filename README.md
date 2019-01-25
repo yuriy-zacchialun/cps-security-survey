@@ -3,3 +3,5 @@ This replication package allows one to reproduce the main phases that led to the
 
 ### Steps to reproduce the results:
 The search and selection of the primary studies can be reproduced and verified by following the steps introduced in the reference article and described in detail in the provided Manual search report, Automatic search reports and Snowballing report. The data extraction parameters and data synthesis results are reported in Data extraction form and Data analysis spreadsheet, respectively.
+
+[![DOI](https://zenodo.org/badge/167570318.svg)](https://zenodo.org/badge/latestdoi/167570318)
